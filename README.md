@@ -1,10 +1,12 @@
-###  DATE: 05.04.2024
+# Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
 
+###  DATE: 05.04.2024
 ###  NAME: HARINI B
 ###  ROLL NO : 212221230035
 ###  DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
-# Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
-### AIM : To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
+
+### AIM : 
+To control the speed and the direction of a DC motor using L293D driver ic( H- bridge)
 
 ### Components Required:
 •	Arduino UNO board
